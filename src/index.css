@@ -6,7 +6,7 @@
 }
 
 :root {
-  font-family: sans-serif, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: sans-serif, Inter, system-ui, Avenir, Helvetica, Arial;
   font-size: calc( 10px + (14 - 10) * ((100vw - 400px) / ( 800 - 400)));
 
   color-scheme: light dark;
